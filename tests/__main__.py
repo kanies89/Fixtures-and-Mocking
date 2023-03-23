@@ -1,7 +1,4 @@
-import unittest
-
 from src.tic_tac_toe.utilities import tic_tac_toe_winner
-# tests/test_winner_api.py
 from src.tic_tac_toe.api import app
 
 from os import close, unlink
