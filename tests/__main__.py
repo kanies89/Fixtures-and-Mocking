@@ -12,6 +12,7 @@ from unittest import TestCase
 
 from src.tic_tac_toe.database import winner, metadata, history
 import pytest
+import unittest
 
 
 @pytest.fixture
